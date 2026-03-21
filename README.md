@@ -90,6 +90,11 @@ This section takes you from **clone → running app in Xcode**.
 ---
 
 ### 🚀 Step-by-Step Setup
+![WhatsApp Image 2026-03-21 at 1 26 35 PM-2](https://github.com/user-attachments/assets/62ca9b50-2933-4997-804c-06a1fa6415ab)
+![WhatsApp Image 2026-03-21 at 1 26 36 PM](https://github.com/user-attachments/assets/cad31f66-1be8-4c1d-8c5a-300cba314542)
+![WhatsApp Image 2026-03-21 at 1 26 37 PM](https://github.com/user-attachments/assets/d8851325-2564-4727-8602-a16c8d8e3ecf)
+![WhatsApp Image 2026-03-21 at 1 26 36 PM-2](https://github.com/user-attachments/assets/5dea59ee-7ca7-49ee-bba3-eb5d0bc3fe1c)
+![WhatsApp Image 2026-03-21 at 1 26 35 PM](https://github.com/user-attachments/assets/308ca20a-2b72-4e7d-94fd-6cd7e0ffa739)
 
 #### 1️⃣ Clone the Repository
 ```bash
